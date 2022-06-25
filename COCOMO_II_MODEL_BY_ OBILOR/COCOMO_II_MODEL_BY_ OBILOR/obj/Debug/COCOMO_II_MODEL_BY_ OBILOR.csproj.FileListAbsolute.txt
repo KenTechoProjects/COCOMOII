@@ -1,0 +1,69 @@
+C:\Users\NKWOJI KENNETH\source\repos\COCOMO_II_MODEL_BY_ OBILOR\COCOMO_II_MODEL_BY_ OBILOR\bin\Debug\COCOMO_II_MODEL_BY_ OBILOR.exe.config
+C:\Users\NKWOJI KENNETH\source\repos\COCOMO_II_MODEL_BY_ OBILOR\COCOMO_II_MODEL_BY_ OBILOR\bin\Debug\COCOMO_II_MODEL_BY_ OBILOR.exe
+C:\Users\NKWOJI KENNETH\source\repos\COCOMO_II_MODEL_BY_ OBILOR\COCOMO_II_MODEL_BY_ OBILOR\bin\Debug\COCOMO_II_MODEL_BY_ OBILOR.pdb
+C:\Users\NKWOJI KENNETH\source\repos\COCOMO_II_MODEL_BY_ OBILOR\COCOMO_II_MODEL_BY_ OBILOR\bin\Debug\DevExpress.Data.v18.1.dll
+C:\Users\NKWOJI KENNETH\source\repos\COCOMO_II_MODEL_BY_ OBILOR\COCOMO_II_MODEL_BY_ OBILOR\bin\Debug\DevExpress.Printing.v18.1.Core.dll
+C:\Users\NKWOJI KENNETH\source\repos\COCOMO_II_MODEL_BY_ OBILOR\COCOMO_II_MODEL_BY_ OBILOR\bin\Debug\DevExpress.Utils.v18.1.dll
+C:\Users\NKWOJI KENNETH\source\repos\COCOMO_II_MODEL_BY_ OBILOR\COCOMO_II_MODEL_BY_ OBILOR\bin\Debug\DevExpress.XtraBars.v18.1.dll
+C:\Users\NKWOJI KENNETH\source\repos\COCOMO_II_MODEL_BY_ OBILOR\COCOMO_II_MODEL_BY_ OBILOR\bin\Debug\DevExpress.XtraEditors.v18.1.dll
+C:\Users\NKWOJI KENNETH\source\repos\COCOMO_II_MODEL_BY_ OBILOR\COCOMO_II_MODEL_BY_ OBILOR\bin\Debug\KnobControl.dll
+C:\Users\NKWOJI KENNETH\source\repos\COCOMO_II_MODEL_BY_ OBILOR\COCOMO_II_MODEL_BY_ OBILOR\bin\Debug\DevExpress.Pdf.v18.1.Core.dll
+C:\Users\NKWOJI KENNETH\source\repos\COCOMO_II_MODEL_BY_ OBILOR\COCOMO_II_MODEL_BY_ OBILOR\bin\Debug\DevExpress.Sparkline.v18.1.Core.dll
+C:\Users\NKWOJI KENNETH\source\repos\COCOMO_II_MODEL_BY_ OBILOR\COCOMO_II_MODEL_BY_ OBILOR\bin\Debug\KnobControl.pdb
+C:\Users\NKWOJI KENNETH\source\repos\COCOMO_II_MODEL_BY_ OBILOR\COCOMO_II_MODEL_BY_ OBILOR\bin\Debug\DevExpress.Data.v18.1.xml
+C:\Users\NKWOJI KENNETH\source\repos\COCOMO_II_MODEL_BY_ OBILOR\COCOMO_II_MODEL_BY_ OBILOR\bin\Debug\DevExpress.Printing.v18.1.Core.xml
+C:\Users\NKWOJI KENNETH\source\repos\COCOMO_II_MODEL_BY_ OBILOR\COCOMO_II_MODEL_BY_ OBILOR\bin\Debug\DevExpress.Utils.v18.1.xml
+C:\Users\NKWOJI KENNETH\source\repos\COCOMO_II_MODEL_BY_ OBILOR\COCOMO_II_MODEL_BY_ OBILOR\bin\Debug\DevExpress.XtraBars.v18.1.xml
+C:\Users\NKWOJI KENNETH\source\repos\COCOMO_II_MODEL_BY_ OBILOR\COCOMO_II_MODEL_BY_ OBILOR\bin\Debug\DevExpress.XtraEditors.v18.1.xml
+C:\Users\NKWOJI KENNETH\source\repos\COCOMO_II_MODEL_BY_ OBILOR\COCOMO_II_MODEL_BY_ OBILOR\bin\Debug\DevExpress.Pdf.v18.1.Core.xml
+C:\Users\NKWOJI KENNETH\source\repos\COCOMO_II_MODEL_BY_ OBILOR\COCOMO_II_MODEL_BY_ OBILOR\bin\Debug\DevExpress.Sparkline.v18.1.Core.xml
+C:\Users\NKWOJI KENNETH\source\repos\COCOMO_II_MODEL_BY_ OBILOR\COCOMO_II_MODEL_BY_ OBILOR\bin\Debug\de\DevExpress.Data.v18.1.resources.dll
+C:\Users\NKWOJI KENNETH\source\repos\COCOMO_II_MODEL_BY_ OBILOR\COCOMO_II_MODEL_BY_ OBILOR\bin\Debug\es\DevExpress.Data.v18.1.resources.dll
+C:\Users\NKWOJI KENNETH\source\repos\COCOMO_II_MODEL_BY_ OBILOR\COCOMO_II_MODEL_BY_ OBILOR\bin\Debug\ja\DevExpress.Data.v18.1.resources.dll
+C:\Users\NKWOJI KENNETH\source\repos\COCOMO_II_MODEL_BY_ OBILOR\COCOMO_II_MODEL_BY_ OBILOR\bin\Debug\ru\DevExpress.Data.v18.1.resources.dll
+C:\Users\NKWOJI KENNETH\source\repos\COCOMO_II_MODEL_BY_ OBILOR\COCOMO_II_MODEL_BY_ OBILOR\bin\Debug\de\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\NKWOJI KENNETH\source\repos\COCOMO_II_MODEL_BY_ OBILOR\COCOMO_II_MODEL_BY_ OBILOR\bin\Debug\es\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\NKWOJI KENNETH\source\repos\COCOMO_II_MODEL_BY_ OBILOR\COCOMO_II_MODEL_BY_ OBILOR\bin\Debug\ja\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\NKWOJI KENNETH\source\repos\COCOMO_II_MODEL_BY_ OBILOR\COCOMO_II_MODEL_BY_ OBILOR\bin\Debug\ru\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\NKWOJI KENNETH\source\repos\COCOMO_II_MODEL_BY_ OBILOR\COCOMO_II_MODEL_BY_ OBILOR\bin\Debug\de\DevExpress.Utils.v18.1.resources.dll
+C:\Users\NKWOJI KENNETH\source\repos\COCOMO_II_MODEL_BY_ OBILOR\COCOMO_II_MODEL_BY_ OBILOR\bin\Debug\es\DevExpress.Utils.v18.1.resources.dll
+C:\Users\NKWOJI KENNETH\source\repos\COCOMO_II_MODEL_BY_ OBILOR\COCOMO_II_MODEL_BY_ OBILOR\bin\Debug\ja\DevExpress.Utils.v18.1.resources.dll
+C:\Users\NKWOJI KENNETH\source\repos\COCOMO_II_MODEL_BY_ OBILOR\COCOMO_II_MODEL_BY_ OBILOR\bin\Debug\ru\DevExpress.Utils.v18.1.resources.dll
+C:\Users\NKWOJI KENNETH\source\repos\COCOMO_II_MODEL_BY_ OBILOR\COCOMO_II_MODEL_BY_ OBILOR\bin\Debug\de\DevExpress.XtraBars.v18.1.resources.dll
+C:\Users\NKWOJI KENNETH\source\repos\COCOMO_II_MODEL_BY_ OBILOR\COCOMO_II_MODEL_BY_ OBILOR\bin\Debug\es\DevExpress.XtraBars.v18.1.resources.dll
+C:\Users\NKWOJI KENNETH\source\repos\COCOMO_II_MODEL_BY_ OBILOR\COCOMO_II_MODEL_BY_ OBILOR\bin\Debug\ja\DevExpress.XtraBars.v18.1.resources.dll
+C:\Users\NKWOJI KENNETH\source\repos\COCOMO_II_MODEL_BY_ OBILOR\COCOMO_II_MODEL_BY_ OBILOR\bin\Debug\ru\DevExpress.XtraBars.v18.1.resources.dll
+C:\Users\NKWOJI KENNETH\source\repos\COCOMO_II_MODEL_BY_ OBILOR\COCOMO_II_MODEL_BY_ OBILOR\bin\Debug\de\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\NKWOJI KENNETH\source\repos\COCOMO_II_MODEL_BY_ OBILOR\COCOMO_II_MODEL_BY_ OBILOR\bin\Debug\es\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\NKWOJI KENNETH\source\repos\COCOMO_II_MODEL_BY_ OBILOR\COCOMO_II_MODEL_BY_ OBILOR\bin\Debug\ja\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\NKWOJI KENNETH\source\repos\COCOMO_II_MODEL_BY_ OBILOR\COCOMO_II_MODEL_BY_ OBILOR\bin\Debug\ru\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\NKWOJI KENNETH\source\repos\COCOMO_II_MODEL_BY_ OBILOR\COCOMO_II_MODEL_BY_ OBILOR\bin\Debug\de\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\NKWOJI KENNETH\source\repos\COCOMO_II_MODEL_BY_ OBILOR\COCOMO_II_MODEL_BY_ OBILOR\bin\Debug\es\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\NKWOJI KENNETH\source\repos\COCOMO_II_MODEL_BY_ OBILOR\COCOMO_II_MODEL_BY_ OBILOR\bin\Debug\ja\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\NKWOJI KENNETH\source\repos\COCOMO_II_MODEL_BY_ OBILOR\COCOMO_II_MODEL_BY_ OBILOR\bin\Debug\ru\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\NKWOJI KENNETH\source\repos\COCOMO_II_MODEL_BY_ OBILOR\COCOMO_II_MODEL_BY_ OBILOR\bin\Debug\de\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\NKWOJI KENNETH\source\repos\COCOMO_II_MODEL_BY_ OBILOR\COCOMO_II_MODEL_BY_ OBILOR\bin\Debug\es\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\NKWOJI KENNETH\source\repos\COCOMO_II_MODEL_BY_ OBILOR\COCOMO_II_MODEL_BY_ OBILOR\bin\Debug\ja\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\NKWOJI KENNETH\source\repos\COCOMO_II_MODEL_BY_ OBILOR\COCOMO_II_MODEL_BY_ OBILOR\bin\Debug\ru\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\NKWOJI KENNETH\source\repos\COCOMO_II_MODEL_BY_ OBILOR\COCOMO_II_MODEL_BY_ OBILOR\obj\Debug\COCOMO_II_MODEL_BY_ OBILOR.csprojResolveAssemblyReference.cache
+C:\Users\NKWOJI KENNETH\source\repos\COCOMO_II_MODEL_BY_ OBILOR\COCOMO_II_MODEL_BY_ OBILOR\obj\Debug\COCOMO_II_MODEL_BY__OBILOR.Form1.resources
+C:\Users\NKWOJI KENNETH\source\repos\COCOMO_II_MODEL_BY_ OBILOR\COCOMO_II_MODEL_BY_ OBILOR\obj\Debug\COCOMO_II_MODEL_BY__OBILOR.MainFace.resources
+C:\Users\NKWOJI KENNETH\source\repos\COCOMO_II_MODEL_BY_ OBILOR\COCOMO_II_MODEL_BY_ OBILOR\obj\Debug\COCOMO_II_MODEL_BY__OBILOR.Properties.Resources.resources
+C:\Users\NKWOJI KENNETH\source\repos\COCOMO_II_MODEL_BY_ OBILOR\COCOMO_II_MODEL_BY_ OBILOR\obj\Debug\COCOMO_II_MODEL_BY_ OBILOR.csproj.GenerateResource.Cache
+C:\Users\NKWOJI KENNETH\source\repos\COCOMO_II_MODEL_BY_ OBILOR\COCOMO_II_MODEL_BY_ OBILOR\obj\Debug\COCOMO_II_MODEL_BY_ OBILOR.exe.licenses
+C:\Users\NKWOJI KENNETH\source\repos\COCOMO_II_MODEL_BY_ OBILOR\COCOMO_II_MODEL_BY_ OBILOR\obj\Debug\COCOMO_II_MODEL_BY_ OBILOR.csproj.CoreCompileInputs.cache
+C:\Users\NKWOJI KENNETH\source\repos\COCOMO_II_MODEL_BY_ OBILOR\COCOMO_II_MODEL_BY_ OBILOR\obj\Debug\COCOMO_II_MODEL_BY_ OBILOR.exe
+C:\Users\NKWOJI KENNETH\source\repos\COCOMO_II_MODEL_BY_ OBILOR\COCOMO_II_MODEL_BY_ OBILOR\obj\Debug\COCOMO_II_MODEL_BY_ OBILOR.pdb
+C:\Users\NKWOJI KENNETH\source\repos\COCOMO_II_MODEL_BY_ OBILOR\COCOMO_II_MODEL_BY_ OBILOR\bin\Debug\EntityFramework.dll
+C:\Users\NKWOJI KENNETH\source\repos\COCOMO_II_MODEL_BY_ OBILOR\COCOMO_II_MODEL_BY_ OBILOR\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\NKWOJI KENNETH\source\repos\COCOMO_II_MODEL_BY_ OBILOR\COCOMO_II_MODEL_BY_ OBILOR\bin\Debug\EntityFramework.xml
+C:\Users\NKWOJI KENNETH\source\repos\COCOMO_II_MODEL_BY_ OBILOR\COCOMO_II_MODEL_BY_ OBILOR\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\NKWOJI KENNETH\source\repos\COCOMO_II_MODEL_BY_ OBILOR\COCOMO_II_MODEL_BY_ OBILOR\obj\Debug\COCOMO_II_MODEL_BY__OBILOR.Migrations.InitialsA.resources
+C:\Users\NKWOJI KENNETH\source\repos\COCOMO_II_MODEL_BY_ OBILOR\COCOMO_II_MODEL_BY_ OBILOR\obj\Debug\COCOMO_II_MODEL_BY__OBILOR.Migrations.Aug27.resources
+C:\Users\NKWOJI KENNETH\source\repos\COCOMO_II_MODEL_BY_ OBILOR\COCOMO_II_MODEL_BY_ OBILOR\obj\Debug\COCOMO_II_MODEL_BY__OBILOR.Migrations.Aug27a.resources
+C:\Users\NKWOJI KENNETH\source\repos\COCOMO_II_MODEL_BY_ OBILOR\COCOMO_II_MODEL_BY_ OBILOR\obj\Debug\COCOMO_II_MODEL_BY__OBILOR.Migrations.Aug27b.resources
+C:\Users\NKWOJI KENNETH\source\repos\COCOMO_II_MODEL_BY_ OBILOR\COCOMO_II_MODEL_BY_ OBILOR\obj\Debug\COCOMO_II_MODEL_BY__OBILOR.Migrations.Aug27b1.resources
+C:\Users\NKWOJI KENNETH\source\repos\COCOMO_II_MODEL_BY_ OBILOR\COCOMO_II_MODEL_BY_ OBILOR\obj\Debug\COCOMO_II_MODEL_BY__OBILOR.Migrations.Aug27b2.resources
+C:\Users\NKWOJI KENNETH\source\repos\COCOMO_II_MODEL_BY_ OBILOR\COCOMO_II_MODEL_BY_ OBILOR\bin\Debug\LineCount.exe
+C:\Users\NKWOJI KENNETH\source\repos\COCOMO_II_MODEL_BY_ OBILOR\COCOMO_II_MODEL_BY_ OBILOR\bin\Debug\LineCount.pdb
+C:\Users\NKWOJI KENNETH\source\repos\COCOMO_II_MODEL_BY_ OBILOR\COCOMO_II_MODEL_BY_ OBILOR\bin\Debug\LineCount.exe.config
